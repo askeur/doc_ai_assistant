@@ -7,7 +7,7 @@
 > Propulsé par un pipeline **RAG** (Retrieval-Augmented Generation) :
 > vos documents PDF deviennent interrogeables en langage naturel.
 <p align="center">
-  <img src="img/Home.png" alt="DiploAssist AI" width="600"/>
+  <img src="Home.png" alt="DiploAssist AI" width="600"/>
 </p>
 
 **Auteur :** Nabila ASKEUR  
@@ -156,7 +156,7 @@ curl -X POST http://localhost:8000/query \
 }
 ```
 <p align="center">
-  <img src="img/resultat.png" alt="DiploAssist Result" width="600"/>
+  <img src="resultat.png" alt="DiploAssist Result" width="600"/>
 </p>
 ---
 
