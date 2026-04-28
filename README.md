@@ -13,7 +13,9 @@
 **Auteur :** Nabila ASKEUR  
 **Stack :** FastAPI · LangChain · FAISS · Groq (Llama 3.3) · Streamlit · Docker
 
-
+Code source : doc-ai-assistant
+Projet disponible sur demande
+(Contact : askeurnabila@gmail.com)
 
 ---
 
