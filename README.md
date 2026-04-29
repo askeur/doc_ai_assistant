@@ -89,7 +89,7 @@ diploassist/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/nabila/<nom-du-repo>.git
+git clone https://github.com/nabila/doc-ai-assistant.git
 cd <nom-du-repo>
 ```
 
